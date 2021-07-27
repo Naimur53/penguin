@@ -1,0 +1,11 @@
+#path0{ 
+    stroke-dasharray: 1547;
+    stroke-dashoffset: 1547;
+    animation: sig  4s ease ;
+    animation-fill-mode: forwards;
+}
+@keyframes sig{
+    to{
+    stroke-dashoffset: 0;
+    }
+} 
